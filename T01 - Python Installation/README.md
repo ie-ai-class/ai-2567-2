@@ -26,6 +26,7 @@
 - Python Extension Pack (v1.7.0)
 - Jupyter (v2023.11.1100101639)
   - This is not the latest release.
+- Ruff (v2024.54.0)
 
 # Select python interpreter
 
