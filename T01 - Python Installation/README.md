@@ -45,3 +45,8 @@
 - Click `Select Kernel` at the top right.
 - Click `+ Code` and type some code.
 - Click play button.
+
+# Misc
+
+- Set format on save
+- Set pythong formatter (by running formatting once)
