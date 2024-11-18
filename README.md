@@ -2,6 +2,7 @@
 
 ## Resources
 
+- [Lecture VDO](https://www.youtube.com/playlist?list=PLNGLpHQhvGrsA_7lOPA8YaCli1pCQU8HF)
 - [Python installtion](https://github.com/ie-ai-class/ai-2567-2/blob/main/T01%20-%20Python%20Installation/README.md)
 
 ## Introduction
