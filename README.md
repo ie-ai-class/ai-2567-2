@@ -9,3 +9,8 @@
 
 - [Lecture](https://drive.google.com/drive/folders/1qmXeMzmK5UvRFhPRdqT1qPxijs_tPBoB?usp=sharing)
 - [Code](https://drive.google.com/drive/folders/1SRUWMcNfX4gJr-TuqZqORHBW59V4Fjro?usp=sharing)
+
+## Classification
+
+- [Lecture](https://drive.google.com/drive/folders/1ql-lIAH_8dlMRzxcfIGe5cc6LXPeUxNx?usp=sharing)
+- [Code](https://drive.google.com/drive/folders/1C3IOxL0Q66ZUkS7k_oK_1DVAPgE6yFST?usp=sharing)
