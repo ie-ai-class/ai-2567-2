@@ -14,3 +14,8 @@
 
 - [Lecture](https://drive.google.com/drive/folders/1ql-lIAH_8dlMRzxcfIGe5cc6LXPeUxNx?usp=sharing)
 - [Code](https://drive.google.com/drive/folders/1C3IOxL0Q66ZUkS7k_oK_1DVAPgE6yFST?usp=sharing)
+
+## Regression
+
+- [Lecture](https://drive.google.com/drive/folders/1qimChvbH9W6cQvZmo0EjJv2nh4_LdIJZ?usp=drive_link)
+- [Code]()
