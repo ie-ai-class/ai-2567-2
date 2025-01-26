@@ -19,3 +19,8 @@
 
 - [Lecture](https://drive.google.com/drive/folders/1qimChvbH9W6cQvZmo0EjJv2nh4_LdIJZ?usp=drive_link)
 - [Code](https://drive.google.com/drive/folders/1ZeFxK0eS-zWCKTgvGl8u9RYV5aEPb7n_?usp=sharing)
+
+## Time Series
+
+- [Lecture](https://drive.google.com/drive/folders/1qhfI-wdvfxpeEu0ZJ8NwVsufXusfP1Pa?usp=sharing)
+- [Code](https://drive.google.com/drive/folders/1aBLi_l6j2UD218zDeEgzc_D5i4----R0?usp=sharing)

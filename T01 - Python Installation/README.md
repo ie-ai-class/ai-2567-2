@@ -4,6 +4,10 @@
   - `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
   - Close and reopen powershell (normal right)
 
+# Win 32
+
+- `New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force`
+
 # Check python
 
 - `uv python list`
@@ -26,7 +30,7 @@
 - Sklearn
   - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff`
 - Time Series
-  - `uv pip install sktime statsmodels pmdarima numpy==1.26.3`
+  - `uv pip install sktime statsmodels pmdarima tbats numpy==1.26.3`
   - Need `numpy==1.26.3` due to [error](https://stackoverflow.com/questions/78634235/numpy-dtype-size-changed-may-indicate-binary-incompatibility-expected-96-from).
 
 # Install VSCode extensions
