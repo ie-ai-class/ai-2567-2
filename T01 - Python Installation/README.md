@@ -26,7 +26,7 @@
 - Sklearn
   - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff`
 - Time Series
-  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff sktime statsmodels pmdarima numpy==1.26.3`
+  - `uv pip install sktime statsmodels pmdarima numpy==1.26.3`
   - Need `numpy==1.26.3` due to [error](https://stackoverflow.com/questions/78634235/numpy-dtype-size-changed-may-indicate-binary-incompatibility-expected-96-from).
 
 # Install VSCode extensions
