@@ -14,12 +14,12 @@
 
 # Virtual environment
 
-- `uv venv venv`
+- `uv venv myenv`
   - Or to be more specific `uv venv --python 3.12`
 
 # Activate scripts
 
-- `.\venv\Scripts\Activate`
+- `.\myenv\Scripts\Activate`
 
 # Install packages
 
