@@ -24,3 +24,8 @@
 
 - [Lecture](https://drive.google.com/drive/folders/1qhfI-wdvfxpeEu0ZJ8NwVsufXusfP1Pa?usp=sharing)
 - [Code](https://drive.google.com/drive/folders/1aBLi_l6j2UD218zDeEgzc_D5i4----R0?usp=sharing)
+
+## ANN
+
+- [Lecture](https://drive.google.com/drive/folders/1qg5xUmoWnd77PNEcqjFGzZEuAAkrO_wg?usp=sharing)
+- [Code](https://drive.google.com/drive/folders/1oaH7t3avvV1guHJoVCWrWrd1g-OiA6-p?usp=sharing)
