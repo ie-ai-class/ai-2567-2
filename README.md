@@ -30,7 +30,7 @@
 - [Lecture](https://drive.google.com/drive/folders/1qg5xUmoWnd77PNEcqjFGzZEuAAkrO_wg?usp=sharing)
 - [Code](https://drive.google.com/drive/folders/1oaH7t3avvV1guHJoVCWrWrd1g-OiA6-p?usp=sharing)
 
-# CNN
+## CNN
 
 - [Lecture](https://drive.google.com/drive/folders/1qbmv4a10quQr1p4kVscnOP5bk3zDdg4F?usp=drive_link)
 - [Code](https://drive.google.com/drive/folders/1Z8DIox7c8Z-qQGlZd6nXqB2Q0d2Z2Ezw?usp=drive_link)
