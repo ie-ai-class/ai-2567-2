@@ -28,7 +28,9 @@
 # Install packages
 
 - Sklearn
-  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff`
+  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook`
+    - In some computers, `notebook` package is required (in addition to `jupyterlab` and `ipykernel`) to run jupyter notebook in vscode.
+    - Try pressing `ctrl` + `p` and choose `Jupuyer: Select Interpreter to Start Jupyter Server` to test your environment.
 - Time Series
   - `uv pip install sktime statsmodels pmdarima tbats numpy==1.26.3`
   - Need `numpy==1.26.3` due to [error](https://stackoverflow.com/questions/78634235/numpy-dtype-size-changed-may-indicate-binary-incompatibility-expected-96-from).
