@@ -1,6 +1,4 @@
-# Source: https://github.com/PradipKumarChaudhary1/N-gram-model
-
-import os
+import io
 
 first_possible_word = {}
 second_possible_word = {}
@@ -51,9 +49,7 @@ def sort_prob(dictionary):  # sorting of dictionary through values
 
 
 def trainModel():
-    dir_path = os.path.dirname(os.path.realpath(__file__))
-
-    for line in open(f"{dir_path}/test_nextword.txt"):
+    for line in open("test_nextword.txt"):
         tokens = line.rstrip().lower().split()
         tokens_length = len(tokens)
         for i in range(tokens_length):
