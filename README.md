@@ -36,3 +36,6 @@
 - [Code](https://drive.google.com/drive/folders/1Z8DIox7c8Z-qQGlZd6nXqB2Q0d2Z2Ezw?usp=drive_link)
 
 ## LLM
+
+- [Lecture](https://drive.google.com/drive/folders/1ErKfRHShXO8oEH-Tbh-A0iqYIxu6Ha1D?usp=sharing)
+- [Code](https://drive.google.com/drive/folders/1Y_7SFcaL3bqcd6WW5L0YH914r_9uRcoR?usp=sharing)
